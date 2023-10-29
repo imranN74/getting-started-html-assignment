@@ -1,0 +1,28 @@
+Q1. Explain the purpose of comments in HTML.
+
+Ans- Comments are text notes that is basically used to give an explanation about the code in HTML,
+ and increase the readability and understanding of the code.
+
+
+
+Q2. Write a short note and element with an example.
+Ans :- 
+
+Tag :
+A tag is a keyword or code enclosed in angle brackets ("< >") used to define the structure and behavior of elements in HTML.
+
+Ex- <p>This is a paragraph.</p>
+Above example shows a p tag, <p> is a opening tag and </p> is a closing tag.
+
+Element :
+An element is a complete set of tags, including the opening and closing tags, and the content they enclose.
+Elements represent specific types of content on a web page, such as text, images, links, and more.
+
+Ex- <p>This is a paragraph.</p>
+Above example contains tag and between the opening and closing tag there is contents,this is whole together called as element.
+
+
+Q3. What is the DOCTYPE Declaration in HTML?
+And - A Document Type Declaration (DOCTYPE) in HTML is a special declaration placed at the very beginning of an HTML document to specify
+ which version of HTML the document is using. The DOCTYPE declaration helps the web browser to correctly interpret and render the content of the document.
+ It also ensures that the document follows the appropriate rules and standards for that version of HTML. 
